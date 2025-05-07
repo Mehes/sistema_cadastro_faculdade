@@ -1,7 +1,7 @@
 Sistema de Gerenciamento de Faculdade
 
 
-Este é um sistema de gerenciamento escolar implementado em Python. Ele permite a inclusão, atualização, listagem e exclusão de registros de estudantes, professores, disciplinas, turmas e matrículas, utilizando arquivos JSON para armazenar os dados.
+Este é um sistema de gerenciamento implementado em Python. Ele permite a inclusão, atualização, listagem e exclusão de registros de estudantes, professores, disciplinas, turmas e matrículas, utilizando arquivos JSON para armazenar os dados.
 
 ------------------------------------------------------------------------------------------------
 
